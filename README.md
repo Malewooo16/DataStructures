@@ -72,3 +72,8 @@ A **graph** is a collection of nodes (vertices) and edges that connect pairs of 
 
 ## Conclusion
 Trees and graphs are versatile and widely used data structures in computer science. Understanding their properties, types, and operations is fundamental for designing efficient algorithms and solving complex problems.
+
+## Prepared BY
+**Elijah Malewo**
+
+**OD22COE Reg:220222486041**
